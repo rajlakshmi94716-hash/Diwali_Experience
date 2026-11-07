@@ -145,7 +145,7 @@ Option 1 — Download the project
 
 Option 2 — Clone the repository
 
-git clone https:
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 
 Then open the project folder and launch "index.html" in your browser.
 
