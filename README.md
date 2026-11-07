@@ -114,7 +114,7 @@ Create personalised festive greetings, customise messages, preview your cards, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/rajlakshmi94716-hash/Diwali_Experience
 ```
 
 ### 2. Open the project folder
